@@ -12,35 +12,36 @@ This repository is a **focused UX sandbox** for studying how thoughtful product 
 
 ## Why this exists
 
-Today, most on-chain experiences feel complex, unfamiliar, or unsafe to everyday users. Even experienced users can feel uncertain when interacting with digital value.
+Most on-chain experiences still feel unfamiliar or unsafe to everyday users. Even experienced users can feel uncertainty when interacting with digital value.
 
-This sandbox explores how **clarity, language, and trust-forward interfaces** can help people feel more confident while engaging with on-chain actions.
+This sandbox explores how **clarity, language, and trust-forward interfaces** can help people feel more confident when taking on-chain actions.
 
-The aim is to learn what makes digital value:
+The goal is to learn what makes digital value:
 
 - Easy to understand at a glance  
-- Comfortable to interact with  
+- Comfortable and safe to interact with  
 - Grounded in trust, even for new users  
 
 ---
 
 ## What’s inside
 
-This repo contains small, intentionally scoped experiments, including:
+This repo contains small, intentionally scoped UX experiments, including:
 
-### 🧪 **On-Chain Interaction Prototype (Experimental)**  
-A working on-chain prototype enabling a real swap flow using Base + Uniswap routing.  
+### On-Chain Interaction Prototype (Experimental)
+
+A working (experimental) on-chain prototype enabling a real swap flow using Base + Uniswap routing.  
 It is designed to observe how users behave during a high-trust interaction, and to study:
 
-- Safety signaling and comprehension
-- Decision-making during value exchange
-- Reducing cognitive friction in on-chain flows
+- Safety signaling and comprehension  
+- Decision-making during value exchange  
+- Reducing cognitive friction in on-chain flows  
 
-The goal is not to “ship a product,” but to **learn how users think and feel** when moving value on-chain — and how UX can make the experience calmer, clearer, and more trustworthy.
+The purpose is not to “ship a product,” but to **learn how people think and feel** when moving value on-chain — and explore how UX can make the experience calmer, clearer, and more trustworthy.
 
-### 🔍 Other UX explorations include:
+### Additional UX explorations
 
-- Mental models for “holding” vs. “using” digital value  
+- Mental models for holding vs. using digital value  
 - Language patterns that reduce anxiety or confusion  
 - Visual design elements that support trust and clarity  
 - Interaction flows that feel familiar to non-crypto users  
@@ -49,13 +50,29 @@ Each idea lives in its own branch, allowing exploration without pressure to conv
 
 ---
 
-## Why it matters
+## Prototype Branches
 
-The future of digital value will require more than infrastructure — it will need **interfaces that people trust without needing to understand the underlying mechanics**.
-
-This sandbox is a step toward that future: learning how to make interacting with value as natural as sending a message, tapping a card, or sharing a file.
+love → truth → justice → peace
 
 ---
 
+## Reference Links (for UX Testing)
+
+These links support UX research and validation — they are provided for context, not promotion.
+
+- Uniswap Base swap route (for UX testing):  
+  https://app.uniswap.org/#/swap?chain=base&outputCurrency=0xABC...
+
+- Basescan reference (contract context):  
+  https://basescan.org/token/0xABC...
+
+---
+
+The future of digital value will require more than infrastructure — it will need **interfaces that people trust without needing to understand the underlying mechanics**.
+
+This sandbox is a step toward that future: exploring how to make interacting with value as natural as sending a message, tapping a card, or sharing a file.
+
+<br/>
+
 **Created by:** @NUXMVP  
-Focus Areas: Trust-first UX, digital value mental models, human-centered crypto adoption  
+Focus Areas: Trust-first UX, digital value mental models, human-centered crypto adoption
