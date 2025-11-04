@@ -61,10 +61,10 @@ love → truth → justice → peace
 These links support UX research and validation — they are provided for context, not promotion.
 
 - Uniswap Base swap route (for UX testing):  
-  https://app.uniswap.org/#/swap?chain=base&outputCurrency=0xABC...
+  https://app.uniswap.org/#/swap?chain=base&outputCurrency=0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
 
 - Basescan reference (contract context):  
-  https://basescan.org/token/0xABC...
+  https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
 
 ---
 
