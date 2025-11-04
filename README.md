@@ -1,61 +1,61 @@
-![LOVE Banner](https://github.com/NUXMVP/LOVE-UX-Sandbox/blob/main/LOVEBTC.png)
+<p align="center">
+  <img src="./LOVEBTC.png" width="180" alt="$LOVE Logo" />
+</p>
 
 # $LOVE – UX Sandbox
 
-A product and UX exploration environment focused on **trust-forward digital value interactions**.  
-This repository serves as a **design and architecture sandbox**, experimenting with how users at all levels of crypto literacy can safely and intuitively interact with tokenized value.
+A calm space to explore how people understand, trust, and interact with digital value.
+
+This repository is a **focused UX sandbox** for studying how thoughtful product design can make on-chain value feel simple, safe, and intuitive. It is not a product launch or token initiative — it is a **design research environment** used to test interaction patterns, language, and mental models for the future of digital value.
 
 ---
 
-**🔍 Purpose of this Sandbox**
+## Why this exists
 
-This project is not a commercial product — it is a **research and prototyping space** exploring UX patterns for human-centered crypto adoption. The primary goal is to simplify how digital value, wallets, and token-based interactions feel for everyday users.
+Today, most on-chain experiences feel complex, unfamiliar, or unsafe to everyday users. Even experienced users can feel uncertain when interacting with digital value.
 
-This includes:
+This sandbox explores how **clarity, language, and trust-forward interfaces** can help people feel more confident while engaging with on-chain actions.
 
-- Reducing cognitive load
-- Increasing user trust and clarity
-- Making tokenized value feel familiar, intuitive, and safe
-- Designing flows that work for both Web3-native and Web3-new users
+The aim is to learn what makes digital value:
 
----
-
-**🧪 What This Sandbox Explores**
-
-- Trust-forward onboarding and UX
-- Tokenized value flows ($LOVE, $TRUTH, $JUSTICE, $PEACE, $IDEA)
-- Mental models for digital value that feel intuitive
-- Interaction patterns that encourage truth, transparency, and community-positive behavior
+- Easy to understand at a glance  
+- Comfortable to interact with  
+- Grounded in trust, even for new users  
 
 ---
 
-**✨ Strategic Relevance**
+## What’s inside
 
-The UX patterns explored here relate directly to the future of digital value interfaces — including potential applications in:
+This repo contains small, intentionally scoped experiments, including:
 
-- Institutional crypto UX
-- RWA onboarding and transparency
-- User-trust architecture
-- Wallet and digital asset experience layers
+### 🧪 **On-Chain Interaction Prototype (Experimental)**  
+A working on-chain prototype enabling a real swap flow using Base + Uniswap routing.  
+It is designed to observe how users behave during a high-trust interaction, and to study:
 
-This work aligns with what leading firms (e.g., Galaxy, Coinbase, Pantera) are actively shaping:  
-the **experience layer** of the digital asset economy.
+- Safety signaling and comprehension
+- Decision-making during value exchange
+- Reducing cognitive friction in on-chain flows
+
+The goal is not to “ship a product,” but to **learn how users think and feel** when moving value on-chain — and how UX can make the experience calmer, clearer, and more trustworthy.
+
+### 🔍 Other UX explorations include:
+
+- Mental models for “holding” vs. “using” digital value  
+- Language patterns that reduce anxiety or confusion  
+- Visual design elements that support trust and clarity  
+- Interaction flows that feel familiar to non-crypto users  
+
+Each idea lives in its own branch, allowing exploration without pressure to converge.
 
 ---
 
-**📍 Roadmap (Concept Branches)**
+## Why it matters
 
-- 🌱 **$LOVE** – Community, growth, decentralization  
-- 🔍 **$TRUTH** – Discovering the truth through human-driven testing  
-- ⚖️ **$JUSTICE** – Ensuring fairness powered by truth  
-- 💡 **$IDEA** – Generating and refining raw ideas with AI + humans  
-- 🕊️ **$PEACE** – Restorative coordination and shared prosperity  
+The future of digital value will require more than infrastructure — it will need **interfaces that people trust without needing to understand the underlying mechanics**.
 
-> Each concept is a work in progress. Contributions, feedback, and forks welcome.
+This sandbox is a step toward that future: learning how to make interacting with value as natural as sending a message, tapping a card, or sharing a file.
 
 ---
 
-**📬 Contact**
-
-Created by: **@NUXMVP**  
-Focus Areas: Trust-forward UX, tokenized value architecture, human-centered crypto adoption
+**Created by:** @NUXMVP  
+Focus Areas: Trust-first UX, digital value mental models, human-centered crypto adoption  
