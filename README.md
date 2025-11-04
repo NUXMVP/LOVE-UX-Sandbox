@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/NUXMVP/LOVE-UX-Sandbox/blob/main/LOVEBTC.png" width="180" alt="$LOVE logo" />
-</p>
+![LOVE Banner](https://github.com/NUXMVP/LOVE-UX-Sandbox/blob/main/LOVEBTC.png)
 
 # $LOVE – UX Sandbox
 
@@ -9,63 +7,55 @@ This repository serves as a **design and architecture sandbox**, experimenting w
 
 ---
 
-## 🔍 Purpose of this Sandbox
+**🔍 Purpose of this Sandbox**
 
-This project is not a commercial product — it is a **research and prototyping space** exploring UX patterns that can make the next generation of digital value systems:
+This project is not a commercial product — it is a **research and prototyping space** exploring UX patterns for human-centered crypto adoption. The primary goal is to simplify how digital value, wallets, and token-based interactions feel for everyday users.
 
-- **Trust-rich**
-- **Intuitive**
-- **Safe for mainstream users**
-- **Aligned with human behavior and real-world usage**
+This includes:
 
-The goal is to learn how thoughtful UX and product design can reduce cognitive friction and increase adoption across crypto and digital value ecosystems.
-
----
-
-## 🧪 What This Sandbox Explores
-
-This environment focuses on:
-
-| Area | Focus |
-|-------|--------|
-| **Trust-forward UX** | Interfaces that build confidence, clarity, and user control |
-| **Tokenized value interaction** | Simple user flows for receiving, sending, growing, and redeeming value |
-| **Human-centered crypto onboarding** | Reducing complexity for non-technical or Web3-new users |
-| **Behavioral design for value systems** | Making digital value feel familiar, fair, and meaningful |
+- Reducing cognitive load
+- Increasing user trust and clarity
+- Making tokenized value feel familiar, intuitive, and safe
+- Designing flows that work for both Web3-native and Web3-new users
 
 ---
 
-## 🧱 Architecture Approach
+**🧪 What This Sandbox Explores**
 
-This sandbox follows a **prototype → test → refine** cycle:
-
-1. **Prototype rapidly** to explore UX interactions
-2. **Test with real users** (varying crypto literacy levels)
-3. **Iterate based on clarity, trust, and usability signals**
-
-Key design principles:
-
-- Make tokenized value **feel safe and familiar**
-- Reduce the mental load of Web3 concepts
-- Use progressive disclosure (surface complexity only when needed)
-- Create UX that supports **mainstream adoption**, not just crypto natives
+- Trust-forward onboarding and UX
+- Tokenized value flows ($LOVE, $TRUTH, $JUSTICE, $PEACE, $IDEA)
+- Mental models for digital value that feel intuitive
+- Interaction patterns that encourage truth, transparency, and community-positive behavior
 
 ---
 
-## ✨ Strategic Relevance
+**✨ Strategic Relevance**
 
-The UX patterns explored here relate directly to the **future of digital value interfaces**, including potential applications in:
+The UX patterns explored here relate directly to the future of digital value interfaces — including potential applications in:
 
-- Institutional crypto experiences
-- RWA (Real-World Asset) onboarding flows
-- User-trust architecture & value governance
-- Consumer adoption of tokenized value systems
+- Institutional crypto UX
+- RWA onboarding and transparency
+- User-trust architecture
+- Wallet and digital asset experience layers
 
-This work aligns with areas where leading firms in the space (e.g., Galaxy, Coinbase, Pantera) can shape the **experience layer** of the digital asset economy.
+This work aligns with what leading firms (e.g., Galaxy, Coinbase, Pantera) are actively shaping:  
+the **experience layer** of the digital asset economy.
 
 ---
 
-## 📬 Contact
+**📍 Roadmap (Concept Branches)**
+
+- 🌱 **$LOVE** – Community, growth, decentralization  
+- 🔍 **$TRUTH** – Discovering the truth through human-driven testing  
+- ⚖️ **$JUSTICE** – Ensuring fairness powered by truth  
+- 💡 **$IDEA** – Generating and refining raw ideas with AI + humans  
+- 🕊️ **$PEACE** – Restorative coordination and shared prosperity  
+
+> Each concept is a work in progress. Contributions, feedback, and forks welcome.
+
+---
+
+**📬 Contact**
 
 Created by: **@NUXMVP**  
 Focus Areas: Trust-forward UX, tokenized value architecture, human-centered crypto adoption
