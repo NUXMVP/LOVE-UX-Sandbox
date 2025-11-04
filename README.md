@@ -1,5 +1,9 @@
 ![$LOVE Banner](https://github.com/NUXMVP/LOVE/blob/main/LOVEBTC.png)
 
+About this Repo
+This repository is a working sandbox for exploring trust-forward UX, tokenized value flows, and community-driven digital asset experiences. It is not a commercial project, but rather a design and architecture experiment to simplify how everyday users interact with digital value. The repo represents my approach to product design: prototype quickly, test with real users, and design systems that are intuitive, safe, and scalable.
+
+
 ---
 
 # 🥰 $LOVE is Decentralized  
